@@ -11,4 +11,4 @@ from src.entity import ModelEvaluationConfig
 from src.common_utils import save_json
 
 # To fill in with your repo information
-dagshub.init(repo_owner='your_username', repo_name='your_repo', mlflow=True)
+dagshub.init(repo_owner='floew2', repo_name='overview_mlops_wine_quality_student', mlflow=True)
